@@ -251,9 +251,9 @@ If you use this PINO in academic work, please cite your project/PINO repository 
 ```
 @software{pino_enhanced,
   title = {Enhanced PINO: Production-Ready Physics-Informed Neural Operator},
-  author = {Your Name},
+  author = {Thierry Silvio Claude Soreze},
   year = {2025},
-  url = {https://your-repo.example}
+  url = {[https://your-repo.example](https://github.com/TSOR666/Physics-Informed-Neural-Operator)}
 }
 ```
 
