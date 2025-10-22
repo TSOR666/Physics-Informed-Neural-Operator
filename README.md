@@ -189,7 +189,7 @@ Typical loss:
 ---
 
 ## 🔌 Applications
-- **Physics‑aware priors/regularizers** inside **OT‑Fokker–Planck (JKO)** or diffusion samplers for scientific volumes.
+- **Physics‑aware priors/regularizers** inside diffusion samplers for scientific volumes.
 - **Incompressible flow** surrogates and stability‑checked rollouts.
 - **Helmholtz/Poisson** PDE‑constrained reconstruction (e.g., tomography, Poisson blending in 3D).
 - **Radiative transfer** proxies in rendering or remote sensing via optical‑depth control.
