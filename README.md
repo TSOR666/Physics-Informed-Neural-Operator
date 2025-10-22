@@ -241,7 +241,7 @@ for step, batch in enumerate(loader):
 ---
 
 ## 🪪 License
-Choose a permissive license (MIT/BSD‑3) if you plan to release as a community tool.
+See licence for more info.
 
 ---
 
